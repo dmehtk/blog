@@ -3,6 +3,8 @@
 	<name>shopdb</name>
 	<comment></comment>
 	<projects>
+		<project>jstl-1.2</project>
+		<project>mariadb-java-client-2.5.4</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
